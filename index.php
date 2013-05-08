@@ -139,6 +139,7 @@ function doPreProcessing(obj)
 <font style="color:#000000">© MyWritingJob.ud, 2013. <a href="#" target="_blank"><font style="color:#000000">FAQ and Support Desk</font></a> 
 
 Email: <a href="mailto:support@mywritingjob.us"><font style="color:#000000">support@mywritingjob.us</font></a>&nbsp;&nbsp;
+<?php ?>
 
 <a href="Earnings-Disclaimer.php" target="_blank"><font style="color:#000000">Earnings Disclaimer</font></a>&nbsp;&nbsp;
 
