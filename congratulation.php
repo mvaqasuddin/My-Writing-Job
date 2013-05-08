@@ -12,8 +12,6 @@
 
 <?php
 
-$conn = mysql_connect('localhost','mywritin_test','2Ln@zU#~Khr;') or die(mysql_error());
-$database = mysql_select_db('mywritin_database',$conn) or die( mysql_error() );
 if (isset($_POST['submit']) ){
 	$firstname = $_POST['firstname'];
 	$lastname = $_POST['lastname'];

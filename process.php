@@ -1,6 +1,4 @@
 <?php
-$conn = mysql_connect('localhost','root','') or die(mysql_error());
-$database = mysql_select_db('mywriting',$conn) or die( mysql_error() );
 $table = 'users';
 if ( isset($_POST['submit']) ) {
 	if( !$_POST['username'] | !$_POST['password'] ) {
