@@ -9,7 +9,7 @@
 <meta name="keywords" content=""/>
 <meta name="description" content=""/>
 <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
-<title>MyWritingJob.us - Make Extra Money as a Writer Online!!</title>
+<title>MyWritingJob.us - Make Extra Money as a Writer Online!</title>
  <link type="text/css" rel="stylesheet" href="Css/style.css">
 
 <link type="text/css" rel="stylesheet" href="Css/theme_default3.css">
