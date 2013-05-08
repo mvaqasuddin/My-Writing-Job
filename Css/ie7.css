@@ -1,0 +1,18 @@
+.maindiv {
+	MARGIN-TOP: 0px
+}
+#picsline_pics .item .zoom {
+	DISPLAY: none
+}
+#picsline_pics .item:hover .zoom {
+	DISPLAY: block
+}
+#picsline_pics .item:hover .border {
+	MARGIN-TOP: 0px
+}
+.ordernow {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.button_sq {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}

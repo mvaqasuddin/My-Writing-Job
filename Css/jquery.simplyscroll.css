@@ -1,0 +1,174 @@
+.simply-scroll-container {
+	POSITION: relative
+}
+.simply-scroll-clip {
+	OVERFLOW: hidden; POSITION: relative
+}
+.simply-scroll-list {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; OVERFLOW: hidden; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.simply-scroll-list LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.simply-scroll-list LI IMG {
+	DISPLAY: block; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.simply-scroll-btn {
+	Z-INDEX: 3; BACKGROUND-IMAGE: url(buttons.png); WIDTH: 42px; CURSOR: pointer; POSITION: absolute; HEIGHT: 44px
+}
+.simply-scroll-btn-left {
+	BACKGROUND-POSITION: 0px -44px; LEFT: 6px; BOTTOM: 6px
+}
+.disabled {
+	BACKGROUND-POSITION: 0px 0px
+}
+.simply-scroll-btn-left:hover {
+	BACKGROUND-POSITION: 0px -88px
+}
+.simply-scroll-btn-left:unknown {
+	BACKGROUND-POSITION: 0px -88px
+}
+.simply-scroll-btn-right {
+	BACKGROUND-POSITION: -84px -44px; RIGHT: 6px; BOTTOM: 6px
+}
+.disabled {
+	BACKGROUND-POSITION: -84px 0px
+}
+.simply-scroll-btn-right:hover {
+	BACKGROUND-POSITION: -84px -88px
+}
+.simply-scroll-btn-right:unknown {
+	BACKGROUND-POSITION: -84px -88px
+}
+.simply-scroll-btn-up {
+	BACKGROUND-POSITION: -126px -44px; RIGHT: 6px; TOP: 6px
+}
+.disabled {
+	BACKGROUND-POSITION: -126px 0px
+}
+.simply-scroll-btn-up:hover {
+	BACKGROUND-POSITION: -126px -88px
+}
+.simply-scroll-btn-up:unknown {
+	BACKGROUND-POSITION: -126px -88px
+}
+.simply-scroll-btn-down {
+	BACKGROUND-POSITION: -42px -44px; RIGHT: 6px; BOTTOM: 6px
+}
+.disabled {
+	BACKGROUND-POSITION: -42px 0px
+}
+.simply-scroll-btn-down:hover {
+	BACKGROUND-POSITION: -42px -88px
+}
+.simply-scroll-btn-down:unknown {
+	BACKGROUND-POSITION: -42px -88px
+}
+.simply-scroll-btn-pause {
+	BACKGROUND-POSITION: -168px -44px; RIGHT: 6px; BOTTOM: 6px
+}
+.simply-scroll-btn-pause:hover {
+	BACKGROUND-POSITION: -168px -88px
+}
+.simply-scroll-btn-pause:unknown {
+	BACKGROUND-POSITION: -168px -88px
+}
+.active {
+	BACKGROUND-POSITION: -84px -44px
+}
+.active:hover {
+	BACKGROUND-POSITION: -84px -88px
+}
+.active:unknown {
+	BACKGROUND-POSITION: -84px -88px
+}
+.simply-scroll {
+	MARGIN-BOTTOM: 1em; WIDTH: 576px; HEIGHT: 300px
+}
+.simply-scroll .simply-scroll-clip {
+	WIDTH: 576px; HEIGHT: 300px
+}
+.simply-scroll .simply-scroll-list {
+	
+}
+.simply-scroll .simply-scroll-list LI {
+	FLOAT: left; WIDTH: 290px; HEIGHT: 300px
+}
+.simply-scroll .simply-scroll-list LI IMG {
+	
+}
+.simply-scroll .simply-scroll-btn {
+	
+}
+.simply-scroll .simply-scroll-btn-left {
+	
+}
+.simply-scroll .disabled {
+	
+}
+.simply-scroll .simply-scroll-btn-left:hover {
+	
+}
+.simply-scroll .simply-scroll-btn-right {
+	
+}
+.simply-scroll .disabled {
+	
+}
+.simply-scroll .simply-scroll-btn-right:hover {
+	
+}
+.simply-scroll .simply-scroll-btn-up {
+	
+}
+.simply-scroll .disabled {
+	
+}
+.simply-scroll .simply-scroll-btn-up:hover {
+	
+}
+.simply-scroll .simply-scroll-btn-down {
+	
+}
+.simply-scroll .disabled {
+	
+}
+.simply-scroll .simply-scroll-btn-down:hover {
+	
+}
+.vert {
+	MARGIN-BOTTOM: 1.5em; WIDTH: 340px; HEIGHT: 300px
+}
+.vert .simply-scroll-clip {
+	WIDTH: 450px; HEIGHT: 600px
+}
+.vert .simply-scroll-list {
+	
+}
+.vert .simply-scroll-list LI {
+	WIDTH: 450px; HEIGHT: 100px
+}
+.vert .simply-scroll-list LI IMG {
+	
+}
+.vert .simply-scroll-btn {
+	
+}
+.vert .simply-scroll-btn-up {
+	RIGHT: 0px; TOP: 0px
+}
+.vert .disabled {
+	
+}
+.vert .simply-scroll-btn-up:hover {
+	
+}
+.vert .simply-scroll-btn-down {
+	RIGHT: 0px; TOP: 52px
+}
+.vert .disabled {
+	
+}
+.vert .simply-scroll-btn-down:hover {
+	
+}

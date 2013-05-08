@@ -1,0 +1,227 @@
+BODY {
+	FONT: 12px/1.2 Helvetica,sans-serif
+}
+P {
+	FONT: 12px/1.2 Helvetica,sans-serif
+}
+DIV {
+	FONT: 12px/1.2 Helvetica,sans-serif
+}
+FORM {
+	FONT: 12px/1.2 Helvetica,sans-serif
+}
+TD {
+	FONT: 12px/1.2 Helvetica,sans-serif
+}
+TABLE {
+	FONT: 12px/1.2 Helvetica,sans-serif
+}
+H1 {
+	FONT: 12px/1.2 Helvetica,sans-serif
+}
+H2 {
+	FONT: 12px/1.2 Helvetica,sans-serif
+}
+H3 {
+	FONT: 12px/1.2 Helvetica,sans-serif
+}
+H4 {
+	FONT: 12px/1.2 Helvetica,sans-serif
+}
+UL {
+	FONT: 12px/1.2 Helvetica,sans-serif
+}
+OL {
+	FONT: 12px/1.2 Helvetica,sans-serif
+}
+LI {
+	FONT: 12px/1.2 Helvetica,sans-serif
+}
+H2 {
+	FONT-SIZE: 22px
+}
+H3 {
+	FONT-SIZE: 18px
+}
+TH {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../images/order_table_grey_header.gif) repeat-x; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; HEIGHT: 35px
+}
+TD {
+	
+}
+UL LI {
+	MARGIN-BOTTOM: 10px; COLOR: #333
+}
+P {
+	MARGIN-BOTTOM: 5px
+}
+#xit {
+	BACKGROUND: #283883
+}
+#header {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; BACKGROUND: url(../images/header_bg.jpg) no-repeat; PADDING-BOTTOM: 0px; MARGIN: 0px auto; WIDTH: 731px; PADDING-TOP: 0px; HEIGHT: 214px
+}
+#mainContent {
+	PADDING-RIGHT: 45px; PADDING-LEFT: 45px; PADDING-BOTTOM: 45px; MARGIN: 0px auto; WIDTH: 681px; PADDING-TOP: 45px
+}
+#footer {
+	TEXT-ALIGN: center
+}
+#ordHead {
+	POSITION: relative
+}
+#lock {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 50px; BACKGROUND: url(../images/grey_lock_bg.jpg) no-repeat; FLOAT: right; PADDING-BOTTOM: 0px; WIDTH: 206px; PADDING-TOP: 20px; HEIGHT: 60px; TEXT-ALIGN: left
+}
+#tblTop {
+	BACKGROUND: url(../images/order_table_header.jpg) no-repeat; PADDING-TOP: 10px; POSITION: relative
+}
+#tbl {
+	BACKGROUND: url(../images/order_table_bg_repeat.jpg) repeat-y
+}
+#tblBottom {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; BACKGROUND: url(../images/order_table_bottom.jpg) no-repeat 0% 100%; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#orderTbl {
+	WIDTH: 673px
+}
+#negMgT {
+	MARGIN-TOP: -70px
+}
+#leftColumn {
+	DISPLAY: inline; FLOAT: left; WIDTH: 442px
+}
+#leftCol {
+	BACKGROUND: url(../images/left_col_bg_repeat.gif) repeat-y; MARGIN-BOTTOM: 30px; WIDTH: 442px
+}
+#leftColTop {
+	BACKGROUND: url(../images/left_col_top.jpg) no-repeat; WIDTH: 442px
+}
+#leftColBottom {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: url(../images/left_col_bottom.gif) no-repeat 0% 100%; PADDING-BOTTOM: 1px; WIDTH: 422px; PADDING-TOP: 10px
+}
+#rightColumn {
+	DISPLAY: inline; FLOAT: right; WIDTH: 230px; HEIGHT: 427px
+}
+#rightColTop {
+	MARGIN-TOP: 30px; BACKGROUND: url(../images/right_col_top.jpg) no-repeat
+}
+#rightColBottom {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: url(../images/right_col_bottom.gif) no-repeat 0% 100%; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; HEIGHT: 431px
+}
+#rightCol {
+	BACKGROUND: url(../images/right_col_bg_repeat.gif) repeat-y
+}
+#logos {
+	BORDER-RIGHT: #c0c0c1 2px solid; PADDING-RIGHT: 5px; BORDER-TOP: #c0c0c1 2px solid; PADDING-LEFT: 5px; BACKGROUND: #fff; PADDING-BOTTOM: 5px; MARGIN: 40px auto 0px; BORDER-LEFT: #c0c0c1 2px solid; WIDTH: 175px; PADDING-TOP: 5px; BORDER-BOTTOM: #c0c0c1 2px solid
+}
+#popUp {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BACKGROUND: #fff; LEFT: 500px; BORDER-LEFT: #000 1px solid; WIDTH: 250px; BORDER-BOTTOM: #000 1px solid; POSITION: absolute; TOP: 500px
+}
+#chat A {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 52px; BACKGROUND: url(../images/popin_live_chat_link.gif) no-repeat; MARGIN-BOTTOM: 30px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 5px; COLOR: #4d4d4f; PADDING-TOP: 25px; TEXT-DECORATION: none
+}
+#emailus A {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 52px; BACKGROUND: url(../images/popin_email_link.gif) no-repeat; PADDING-BOTTOM: 10px; MARGIN-LEFT: 5px; COLOR: #4d4d4f; PADDING-TOP: 25px; TEXT-DECORATION: none
+}
+.hidden {
+	DISPLAY: none
+}
+.formBox {
+	MARGIN-BOTTOM: 0px; WIDTH: 422px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.formGroupB {
+	WIDTH: 298px
+}
+.labelCol {
+	WIDTH: 100px; TEXT-ALIGN: left
+}
+.labelCol LABEL {
+	PADDING-LEFT: 14px; FONT-WEIGHT: normal; LINE-HEIGHT: 22px
+}
+#pInfo {
+	MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px
+}
+#cInfo {
+	MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; WIDTH: 422px
+}
+#secure {
+	WIDTH: 65px; MARGIN-RIGHT: 33px
+}
+#gt_script {
+	DISPLAY: none
+}
+#cvv2 {
+	WIDTH: 40px
+}
+#cvv2Help {
+	MARGIN: 6px 0px 0px -140px
+}
+.inputCol SPAN {
+	DISPLAY: none
+}
+#bInfo_zip {
+	MARGIN-TOP: 0px
+}
+#sbmt {
+	WIDTH: 160px; HEIGHT: 30px
+}
+.center {
+	TEXT-ALIGN: center
+}
+.white {
+	COLOR: #fff
+}
+.bold {
+	FONT-WEIGHT: bold
+}
+.italic {
+	FONT-STYLE: italic
+}
+.xsText {
+	FONT-SIZE: 10px
+}
+.sText {
+	FONT-SIZE: 11px
+}
+.mText {
+	FONT-SIZE: 14px
+}
+.mlText {
+	FONT-SIZE: 17px
+}
+.lText {
+	FONT-SIZE: 20px
+}
+.bleft {
+	BORDER-LEFT: #a4a5a7 1px solid
+}
+.bBottom {
+	BORDER-BOTTOM: #a4a5a7 1px solid
+}
+.bBottom2 {
+	BORDER-BOTTOM: #bcbcbd 2px solid
+}
+.bkgd {
+	BACKGROUND: #e6e6e6
+}
+.aright {
+	TEXT-ALIGN: right
+}
+.aleft {
+	TEXT-ALIGN: left
+}
+.pLeft {
+	PADDING-LEFT: 5px
+}
+.pRight {
+	PADDING-RIGHT: 5px
+}
+.lgray {
+	COLOR: #6a6a6a
+}
+.congratulation
+{
+	padding: 0px 20px 0px 50px;
+	MARGIN:  0px 0px 0px 50px;
+}

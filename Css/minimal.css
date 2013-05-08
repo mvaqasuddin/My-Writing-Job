@@ -1,0 +1,78 @@
+UNKNOWN {
+	MARGIN-TOP: 0px
+}
+UNKNOWN {
+	VISIBILITY: hidden
+}
+.accordion-a section header {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 35px; PADDING-BOTTOM: 5px; PADDING-TOP: 10px; POSITION: relative; BACKGROUND-COLOR: #f3f3f3
+}
+.js .accordion-a section header:unknown {
+	LEFT: 0px; WIDTH: 12px; TOP: 5px; HEIGHT: 2px
+}
+.js .accordion-a section header:unknown {
+	DISPLAY: block; MARGIN: 12px 0px 0px 7px; POSITION: absolute; BACKGROUND-COLOR: #cccccc; content: ""
+}
+.js .accordion-a section header:unknown {
+	DISPLAY: block; MARGIN: 12px 0px 0px 7px; POSITION: absolute; BACKGROUND-COLOR: #cccccc; content: ""
+}
+.js .accordion-a section header:unknown {
+	LEFT: 5px; WIDTH: 2px; TOP: 0px; HEIGHT: 12px
+}
+.accordion-a section header H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 17px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #777777; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+.accordion-a section .content {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 35px; FONT-SIZE: 15px; PADDING-BOTTOM: 20px; COLOR: #474747; PADDING-TOP: 5px; POSITION: relative
+}
+.accordion-a section .content BLOCKQUOTE {
+	FONT-SIZE: 22px; MARGIN: 15px 0px; COLOR: #cccccc; FONT-STYLE: italic
+}
+.accordion-a section .content :unknown {
+	MARGIN-TOP: 0px
+}
+.accordion-a section .content H1 {
+	FONT-SIZE: 13px; MARGIN: 30px 0px 0px
+}
+.accordion-a section .content :unknown {
+	MARGIN-BOTTOM: 0px
+}
+UNKNOWN {
+	MARGIN-TOP: 5px
+}
+.accordion-a section .content P {
+	MARGIN: 15px 0px
+}
+.accordion-a section .content PRE {
+	BORDER-RIGHT: #f3f3f3 3px solid; PADDING-RIGHT: 10px; BORDER-TOP: #f3f3f3 3px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; MARGIN: 15px 0px; BORDER-LEFT: #f3f3f3 3px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #f3f3f3 3px solid; FONT-FAMILY: "Courier New",Courier,monospace; border-radius: 5px
+}
+.dark section .content PRE {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; border-radius: 5px
+}
+.accordion-a section .content TEXTAREA {
+	max-height: 500px; max-width: 100%
+}
+.dark section .content {
+	COLOR: #dddddd
+}
+.dark section .content BLOCKQUOTE {
+	COLOR: #777777
+}
+.dark section .content PRE {
+	COLOR: #cccccc; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; border-radius: 5px
+}
+.dark section header {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.dark section header H1 {
+	PADDING-RIGHT: 10px; DISPLAY: inline-block; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; BORDER-BOTTOM: 2px solid; text-shadow: 0 1px 1px rgba(255,255,255,0.1); box-shadow: 0 1px 5px rgba(0,0,0,0.7); webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.7); moz-box-shadow: 0 1px 5px rgba(0,0,0,0.7)
+}
+.chestnut section header H1 {
+	BORDER-BOTTOM-COLOR: #664642; COLOR: #261a18; BACKGROUND-COLOR: #986960
+}
+.lavender section header H1 {
+	BORDER-BOTTOM-COLOR: #4c3666; COLOR: #100c16; BACKGROUND-COLOR: #734f96
+}
+.olive section header H1 {
+	BORDER-BOTTOM-COLOR: #3e4c22; COLOR: #14190b; BACKGROUND-COLOR: #556b2f
+}

@@ -1,0 +1,111 @@
+<div class="cols2" id="faq" style="display: block;">
+      <div class="col"> 
+        <!-- Column 1 -->
+        <article class="accordion-a" role="tablist">
+          <section aria-expanded="false" class="">
+            <header role="tab" tabindex="0" class="no-outline">
+              <h1>Why do I have to pay?</h1>
+            </header>
+            <div class="content" role="tabpanel" style="height: 0px;">
+              <p>MyWritingJob.com has to charge to keep our extensive list of jobs updated.  Our partners don't pay us (it would be a conflict of interest), so we charge to make sure our jobs are being updated up to 5x per day!</p>
+            </div>
+          </section>
+          <section aria-expanded="false">
+            <header role="tab" tabindex="0">
+              <h1>When can I start my first job?</h1>
+            </header>
+            <div class="content" role="tabpanel" style="height: 0px;">
+              <p>30 Minutes!  That's how long it takes after joining, to complete your first writing assignment and start your writing career with MyWritingJob.com</p>
+            </div>
+          </section>
+          <section aria-expanded="false">
+            <header role="tab" tabindex="0">
+              <h1>What types of jobs are available?</h1>
+            </header>
+            <div class="content" role="tabpanel" style="height: 0px;">
+              <p>Since we have thousands of jobs available, the types of jobs available can vary.  Here are just a few: article or blog writing, technical writing, creative writing, simple data entry, reviewing websites, proofreading, and much more. It's up to you to decide what type of writer you want to be! </p>
+            </div>
+          </section>
+          <section aria-expanded="false">
+            <header role="tab" tabindex="0">
+              <h1>What will I be writing about?</h1>
+            </header>
+            <div class="content" role="tabpanel" style="height: 0px;">
+              <p>The topics vary greatly.  Many of the writing tasks require a little bit of research prior to completing the job.  The good news is, it's up to you! You get to choose what you want to write about.  We have thousands of jobs across many industries.</p>
+            </div>
+          </section>
+		            <section aria-expanded="false">
+            <header role="tab" tabindex="0">
+              <h1>What does the average job pay?</h1>
+            </header>
+            <div class="content" role="tabpanel" style="height: 0px;">
+              <p>The average job pays anywhere between $200-$400 upon completion.  This should take anywhere between 2-5 hours depending on the job.</p>
+            </div>
+          </section>
+          <section aria-expanded="false">
+            <header role="tab" tabindex="0">
+              <h1>What if I want to cancel?</h1>
+            </header>
+            <div class="content" role="tabpanel" style="height: 0px;">
+              <p>You have 60 days to try out MyWritingJob.  No questions asked! If at any time you're not happy, write in to support@mywritingjob.com and you're membership fee will be refunded.</p>
+            </div>
+          </section>
+        </article>
+        <!-- /Column 1 --> 
+      </div>
+      <div class="col"> 
+        <!-- Column 2 -->
+        <article class="accordion-a" role="tablist">
+          <section aria-expanded="false">
+            <header role="tab" tabindex="0">
+              <h1>How long have you been in business?</h1>
+            </header>
+            <div class="content" role="tabpanel" style="height: 0px;">
+              <p>We have been in business for over 10 years!  We have been providing jobs for thousands of very happy writers!</p>
+            </div>
+          </section>
+          <section aria-expanded="false">
+            <header role="tab" tabindex="0">
+              <h1>How many members do you have?</h1>
+            </header>
+            <div class="content" role="tabpanel" style="height: 0px;">
+              <p>We have thousands of members across the world completing simple writing tasks for a living. </p>
+            </div>
+          </section>
+          <section aria-expanded="false">
+            <header role="tab" tabindex="0">
+              <h1>How do you get paid?</h1>
+            </header>
+            <div class="content" role="tabpanel" style="height: 0px;">
+              <p>You can get paid via ACH, direct deposit, PayPal, wire, or check.  Other payment arrangements can be made for each job.</p>
+            </div>
+          </section>
+          <section aria-expanded="false">
+            <header role="tab" tabindex="0">
+              <h1>How many hours will I be working?</h1>
+            </header>
+            <div class="content" role="tabpanel" style="height: 0px;">
+              <p>We recommend at least 4-5 hours per week.  But, it is completely up to you!  You can work full-time or part-time. The amount you work is based on how many job assignments you accept.</p>
+            </div>
+          </section>
+          <section aria-expanded="false">
+            <header role="tab" tabindex="0">
+              <h1>How much writing experience is needed?</h1>
+            </header>
+            <div class="content" role="tabpanel" style="height: 0px;">
+              <p>Little to no experience is needed.  If you can read and write in English, then you can complete any of the writing assignments available.  We give you all the resources you need to start your career as a writer with MyWritingJob.com!</p>
+            </div>
+          </section>
+          <section aria-expanded="false">
+            <header role="tab" tabindex="0">
+              <h1>How much is it?</h1>
+            </header>
+            <div class="content" role="tabpanel" style="height: 0px;">
+              <p>Usually, we charge a one time fee of $68.  But for today, 05/01/13 only,  get 50% off and join for only $<strong>34</strong>!</p>
+            </div>
+          </section>
+        </article>
+        <!-- /Column 2 --> 
+      </div>
+      <div class="clear"></div>
+    </div>
